@@ -1,31 +1,17 @@
-# Google Play Store Analysis 📱📊
+# Google Play Store Sentiment Analysis (Beginner-Friendly Version)
 
-This project explores and analyzes a dataset of apps on the Google Play Store to uncover trends, correlations, and insights using Python libraries like Pandas, Matplotlib, Seaborn, and Scikit-learn.
+This project performs basic sentiment analysis on Google Play Store app reviews using simple keyword matching.
 
-## 🚀 Features
+## Tools Used
+- Python
+- Jupyter Notebook
+- pandas, numpy, matplotlib
 
-- Sentiment Analysis using TextBlob
-- WordCloud generation
-- Visualizations using Seaborn and Matplotlib
-- Predictive Modeling using Scikit-learn
+## How It Works
+- Reviews are classified as Positive, Negative, or Neutral based on keywords like "good", "bad", "love", etc.
+- A bar chart shows the sentiment distribution.
 
-## 📁 Dataset
-
-Used a cleaned Google Play Store dataset. You can find it in the repository or provide your own.
-
-## 🧰 Libraries Used
-
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- textblob
-- wordcloud
-- scikit-learn
-
-## 📦 Installation
-
-Create a virtual environment and install all dependencies:
-
-```bash
-pip install -r requirements.txt
+## How to Run
+1. Install requirements:
+   ```bash
+   pip install -r requirements.txt
