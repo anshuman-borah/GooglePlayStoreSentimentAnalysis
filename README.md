@@ -1,4 +1,4 @@
-# Google Play Store Sentiment Analysis (Beginner-Friendly Version)
+# Google Play Store Sentiment Analysis 
 
 This project performs basic sentiment analysis on Google Play Store app reviews using simple keyword matching.
 
